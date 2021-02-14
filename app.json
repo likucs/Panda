@@ -21,7 +21,7 @@
    "env": {
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
-         "required": true,
+         "required": false,
          "value": ""
       },
       "APIID": {
@@ -36,27 +36,27 @@
       },    
       "DB_URI": {
          "description": "MongoDB Database URL.",
-         "required": true,
+         "required": false,
          "value": ""
       },
       "TMDBAPI": {
          "description": "tmdb api key",
-         "required": true,
+         "required": false,
          "value": ""
       },
       "SPT_CLIENT_SECRET": {
          "description": "Spotify Client Secret",
-         "required": true,
+         "required": false,
          "value": ""
       },
       "SPT_CLIENT_ID": {
          "description": "Spotify Client ID",
-         "required": true,
+         "required": false,
          "value": ""
       },
       "GENIUS": {
-         "description": "xxxxxxx",
-         "required": true,
+         "description": "nothing",
+         "required": false,
          "value": ""
       },      
       "WORKERS": {
@@ -65,13 +65,13 @@
          "value": "8"
       },
       "DEBUG": {
-         "description": "xxxxx",
+         "description": "d",
          "required": true,
          "value": "false"
       },
       "ARLTOKEN": {
          "description": "Deezer ARL Token.",
-         "required": true,
+         "required": false,
          "value": ""
       },
       "APP_URL": {
