@@ -35,7 +35,7 @@ Can be found in telegram as [𝙰𝚌𝚞𝚝𝚎𝙱𝚘𝚝](https://t.me/acut
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jerinjohny-ktnm/panda.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nksama/Panda)
 
 
 <b>Contributions of all sizes are welcome :)</b>
