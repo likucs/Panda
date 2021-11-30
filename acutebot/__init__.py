@@ -35,7 +35,7 @@ if ENV:
 
 
 else:
-    from acutebot.config import Config
+    from acutebot.config import Config.py
 
     TOKEN = Config.TOKEN
     WORKERS = Config.WORKERS
