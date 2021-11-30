@@ -1,12 +1,12 @@
-TOKEN = 
-WORKERS = 
-TMDBAPI = 
-DB_URI = 
-GENIUS = 
-SPT_CLIENT_SECRET = 
-SPT_CLIENT_ID = 
-DEBUG = 
-ARLTOKEN = 
-APP_URL = 
-APIID = 
-APIHASH = 
+TOKEN = "1244890107:AAH6qkRJmKeMGB8WUuqzBypWRBGTqgKt1tY"
+WORKERS = "8"
+TMDBAPI = "f92bb7652575effd790307034d7f6cae"
+DB_URI = "mongodb+srv://userbot:Apan4DangerAhe@cluster0.m3lpz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+GENIUS = "false"
+SPT_CLIENT_SECRET = "de3e7923f1ba4a8499231d5cc9b6d69a"
+SPT_CLIENT_ID = "44c6d7c417f8495f929ec7c9e439abf8" 
+DEBUG = "false"
+ARLTOKEN = "false"
+APP_URL = "https://moviedetailss.herokuapp.com"
+APIID = "1023440"
+APIHASH = "298cab91dea8a2250ff733ed84b8a494"
